@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>NextSoft.byVS.AppLogger.Avi.Sample</PackageId>
+    <Authors>Avi,Yheudit</Authors>
+    <Company>NextSoft</Company>
+    <Description>A very simple text logger</Description>
+    <Copyright>(c) NextSoft copration</Copyright>
+    <PackageTags>logger, print, NextSoft</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>

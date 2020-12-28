@@ -1,0 +1,9 @@
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\bin\Debug\netstandard2.0\AppLoger.deps.json
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\bin\Debug\netstandard2.0\AppLoger.dll
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\bin\Debug\netstandard2.0\AppLoger.pdb
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\obj\Debug\netstandard2.0\AppLoger.csprojAssemblyReference.cache
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\obj\Debug\netstandard2.0\AppLoger.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\obj\Debug\netstandard2.0\AppLoger.AssemblyInfoInputs.cache
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\obj\Debug\netstandard2.0\AppLoger.AssemblyInfo.cs
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\obj\Debug\netstandard2.0\AppLoger.dll
+C:\Users\user\Documents\project\GetStartedExc\CreateAndPublish\VS\AppLoger\AppLoger\obj\Debug\netstandard2.0\AppLoger.pdb
