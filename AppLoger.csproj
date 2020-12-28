@@ -8,7 +8,9 @@
     <Description>A very simple text logger</Description>
     <Copyright>(c) NextSoft copration</Copyright>
     <PackageTags>logger, print, NextSoft</PackageTags>
-    <NeutralLanguage>en</NeutralLanguage>
+    <NeutralLanguage>English</NeutralLanguage>
+    <PackageIconUrl>/Icon.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/aviheller7/GetStartedExc-CreateAndPublish-VS-AppLoger-AppLoger.git</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
