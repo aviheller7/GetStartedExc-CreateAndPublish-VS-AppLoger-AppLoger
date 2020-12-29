@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	<PackageId>AppLogger</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>Avi</Authors>
+	<Company>NextSoft</Company>
+	<IsPackable>true</IsPackable>
+	<PackageId>NextSoft.AppLogger.Avi.Sample</PackageId>
+	<Title>log 'Hello World'</Title>
+	<Authors>Avi,Yehudit</Authors>
+	<PackageDescription>a Very basic 'Hello World' progect,
+		suppose to be a sample and excersise for creating and publishing NuGet package</PackageDescription>
+	<Copyright>(C) All rights reserved to NextSoft Copartion </Copyright>
+	<DevelopmentDependency>false</DevelopmentDependency>
+	<PackageLicenseExpression></PackageLicenseExpression>
+	<PackageIcon>Icon.png</PackageIcon>
+	<PackageReleaseNotes>First and (Hopfully) last release</PackageReleaseNotes>
+	<PackageTags>AppLoger;Loger;Hello World;</PackageTags>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	<RepositoryUrl>https://github.com/aviheller7/GetStartedExc-CreateAndPublish-.NETCLI-AppLoger.git</RepositoryUrl>
+	<RepositoryBranch>main</RepositoryBranch>
+	<RepositoryCommit>release commit for version 1.0.0</RepositoryCommit>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+ </PropertyGroup>
+
+</Project>
